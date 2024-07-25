@@ -6,6 +6,8 @@
 
 This tool was developed as a learning exercise to explore how to package Python scripts into downloadable executables that others can use. Additionally, it’s a handy solution for those times when I accidentally type entire paragraphs in uppercase before realizing I've made a major text blunder.
 
+You can find the package on PyPI [here](https://pypi.org/project/texttransform/).
+
 
 ## Features
 - **Convert**: Change text to uppercase or lowercase.
